@@ -1,0 +1,17 @@
+# Problem input
+# object files
+*/*
+!*.*
+*.o
+
+*~
+\#*
+
+*.dat
+*.txt
+_ignore*
+*.fasl
+
+# shit code dont read :-)
+2019/
+.ipynb*
